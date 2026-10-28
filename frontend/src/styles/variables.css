@@ -1,0 +1,18 @@
+:root {
+  /* Identidad visual FINAZZ */
+  --color-beige: #F3EDE3;
+  --color-blanco: #FFFFFF;
+  --color-negro: #171A17;
+  --color-verde-pastel: #B7D3BE;
+  --color-verde-suave: #DFE7D9;
+
+  /* Colores complementarios */
+  --color-verde-oscuro: #244C40;
+  --color-texto-secundario: #777777;
+  --color-borde: #E8E5DF;
+
+  /* Diseño */
+  --radio-tarjeta: 16px;
+  --radio-boton: 10px;
+  --sombra-tarjeta: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
